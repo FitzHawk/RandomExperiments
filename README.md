@@ -1,6 +1,6 @@
 # RandomExperiments
 
-This is just a repository used to document my testing and learning about various
+This is just a repository used to document testing and learning about various
 technologies. Each experiment will be contained within its own subfolder and
 they will all be relatively small and simplistic.
 
